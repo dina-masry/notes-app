@@ -11,5 +11,6 @@ Welcome to the Notes App repository! This project is a new Flutter application d
 
 - BLoC (Business Logic Component): Employed for state management, effectively separating the business logic from the UI to create a predictable and scalable application.
 ## ✍️ Author
-[Dina Masry] (https://github.com/dina-masry)
+(Dina Masry) [https://github.com/dina-masry]
+
 Happy note-taking and Flutter coding! 🚀
